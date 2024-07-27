@@ -1,0 +1,20 @@
+
+
+npm is the world's largest Software Registry.
+The registry contains over 800,000 code packages.
+Open-source developers use npm to share software.
+The name npm (Node Package Manager) stems from when npm first was created as a package manager for Node.js.
+All npm packages are defined in files called package.json.
+The content of package.json must be written in JSON.
+npm can manage dependencies.
+npm can (in one command line) install all the dependencies of a project.
+Dependencies are also defined in package.json.
+
+
+What is a Module in Node.js?
+
+Consider modules to be the same as JavaScript libraries.
+A set of functions you want to include in your application.
+Node.js has a set of built-in modules which you can use without any further installation.
+You can create your own modules, and easily include them in your applications.
+
